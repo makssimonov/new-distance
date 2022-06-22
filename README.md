@@ -4,4 +4,4 @@
 * Усидчивый
 * Целеустремленный
 * Веселый
-![me](C:\Users\Max\Desktop\new\img)
+![me](img/photo.jpg)
